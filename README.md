@@ -133,6 +133,14 @@ e-commerce-project/
 4. Push to the branch.
 5. Open a pull request.
 
+   ### Author
+   
+- **Name:** Prajwal Khot
+- **Email:** [prajwalkhot39@gmail.com]
+- **GitHub:** [@prajwalkho](https://github.com/prajwalkho)
+- **LinkedIn:** [www.linkedin.com/in/prajwal-p-khot]
+  
+
 ## License
 
 This project is licensed under the ISC License.
